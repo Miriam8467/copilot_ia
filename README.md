@@ -1,6 +1,6 @@
 # IA na Prática: Acelerando o Desenvolvimento e Garantindo a Qualidade
 
-![CI](https://github.com/Miriam8467/copilot_ia.git/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Miriam8467/copilot_ia/actions/workflows/ci.yml/badge.svg)
 
 ## 1. Contexto do Desafio
 
