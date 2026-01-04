@@ -72,3 +72,26 @@ npm install
 ### Executar testes
 npm test
 
+## 6. Fluxo de Trabalho Assistido por IA
+
+O fluxo de desenvolvimento adotado neste projeto segue os seguintes passos:
+
+1. **Desenvolvimento da funcionalidade**
+   - O desenvolvedor utiliza o GitHub Copilot para gerar a função de negócio,
+     reduzindo o tempo gasto com código repetitivo e validações básicas.
+
+2. **Geração de testes automatizados**
+   - A partir da função criada, o Copilot é utilizado para sugerir testes unitários,
+     cobrindo cenários válidos e inválidos.
+   - Essa abordagem reduz a resistência à escrita de testes e aumenta a cobertura.
+
+3. **Commit e Push**
+   - Cada alteração é versionada de forma incremental, mantendo um histórico claro
+     e auditável.
+
+4. **Integração Contínua**
+   - O GitHub Actions executa automaticamente os testes a cada push ou pull request.
+   - Falhas são detectadas imediatamente, impedindo a integração de código defeituoso.
+
+Esse fluxo permite acelerar entregas sem abrir mão da qualidade do software.
+
