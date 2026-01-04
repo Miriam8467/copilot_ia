@@ -4,7 +4,7 @@
   "description": "Projeto demonstrando uso de IA no desenvolvimento com GitHub Copilot e CI com GitHub Actions",
   "main": "src/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "npx jest"
   },
   "keywords": [
     "inteligencia-artificial",
